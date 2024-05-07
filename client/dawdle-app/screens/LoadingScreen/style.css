@@ -1,0 +1,22 @@
+.loading {
+    background-color: #50adb333;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .loading .logo-wrapper {
+    background-color: #50adb333;
+    height: 812px;
+    position: relative;
+    width: 375px;
+  }
+  
+  .loading .logo-instance {
+    height: 181px !important;
+    left: 99px !important;
+    position: absolute !important;
+    top: 286px !important;
+    width: 173px !important;
+  }  
